@@ -1,7 +1,7 @@
 # jenkins-pipeline-gitflow-maven
 This is a sample Maven project with a Jenkinsfile for doing [gitflow](http://nvie.com/posts/a-successful-git-branching-model/) based release management.
 
-The [Jenkinsfile](https://jenkins.io/doc/book/pipeline/jenkinsfile/) is used by Jenkins to build a pipeline with the described steps. 
+ [Jenkinsfile](https://jenkins.io/doc/book/pipeline/jenkinsfile/) is used by Jenkins to build a pipeline with the described steps. 
 Actual gitflow release management is performed by [jgitflow-maven-plugin](https://bitbucket.org/atlassian/jgit-flow) maven plugin.
 
 ## Jenkins job
